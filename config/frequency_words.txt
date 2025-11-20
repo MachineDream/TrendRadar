@@ -5,15 +5,6 @@ DeepSeek
 电影
 电视剧
 
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -21,8 +12,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -82,3 +71,7 @@ vue
 cesium
 可视化渲染
 程序员
+
+股票
+美股
+A股
